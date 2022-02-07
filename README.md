@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studied Computer Science.
+- 🎓 &nbsp; Software Engineer.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design and Robotics.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
