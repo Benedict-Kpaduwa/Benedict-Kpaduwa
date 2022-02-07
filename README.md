@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/benedict-kpaduwa-c-7a6010164/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BenedictKpaduwa-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="href="https://www.instagram.com/benedict__k/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-benedict__k-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/benedict__k/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-benedict__k-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:benedictkpaduwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-benedictkpaduwa@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
