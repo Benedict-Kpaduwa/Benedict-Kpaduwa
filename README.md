@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design and Robotics.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing careers in Web Development.
 
 
 
