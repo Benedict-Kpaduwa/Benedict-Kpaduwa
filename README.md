@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Software Engineer.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design and Robotics.
+- 🌱 &nbsp; Learning about Cloud Tech, BlockChain, Systems Design and Robotics.
 
 - ✍️ &nbsp; Pursuing careers in Web Development.
 
