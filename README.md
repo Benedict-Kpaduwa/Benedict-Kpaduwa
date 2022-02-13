@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 🛢 &nbsp; MySQL | MongoDB
 
-- 🔧 &nbsp; Git | Markdown | Selenium | RedHat
+- 🔧 &nbsp; Git | Markdown | Spark AR | RedHat
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
