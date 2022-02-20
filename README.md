@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 - 🔧 &nbsp; Git | Spark AR | RedHat
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Illustrator| Photoshop 
 
 
 
