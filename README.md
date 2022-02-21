@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase 
 
 <hr>
 
