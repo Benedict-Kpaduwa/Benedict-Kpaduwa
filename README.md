@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 🛢 &nbsp; MySQL | MongoDB
 
-- 🔧 &nbsp; Git | Spark AR | RedHat
+- 🔧 &nbsp; Git | Spark AR 
 
 - 🖥 &nbsp; Illustrator| Photoshop 
 
