@@ -48,9 +48,6 @@ Here are some ideas to get you started:
 
 - 🔧 &nbsp; Git | Spark AR 
 
-- 🖥 &nbsp; Illustrator| Photoshop 
-
-
 
 
 
