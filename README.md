@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; Java | C++ | C | Dart
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NextJS | NodeJS | Solidity | Material UI | Tailwind CSS | Firebase | Flutter | TypeScript | Styled Components | PixiJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NextJS | NodeJS | Solidity | Material UI | Tailwind CSS | Firebase | Flutter | TypeScript | Styled Components | PixiJS | ElectronJS
+
 
 
 
