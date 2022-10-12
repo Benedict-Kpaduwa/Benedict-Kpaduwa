@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://benedictkpaduwa.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/benedictkpaduwa.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://benedictkpaduwa.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/benedictkpaduwa.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/benedict-kpaduwa-c-7a6010164/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BenedictKpaduwa-blue?style=flat-square&logo=linkedin"></a>
 
