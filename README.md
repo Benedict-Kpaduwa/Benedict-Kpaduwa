@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Software Engineer.
 
-- 🌱 &nbsp; Learning about Cloud Tech, BlockChain, Systems Design and Robotics.
+- 🌱 &nbsp; Learning about Cloud Tech, 3D Game Development, Systems Design and Robotics.
 
 - ✍️ &nbsp; Pursuing careers in Web Development.
 
@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 
 
-- 💻 &nbsp; Java | C++ | C | Dart
+- 💻 &nbsp; C++ | C | C# | Python
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NextJS | NodeJS | Solidity | Material UI | Tailwind CSS | Firebase | Flutter | TypeScript | Styled Components | PixiJS | ElectronJS
-
-
+- 🌐 &nbsp; JavaScript | ReactJS | NextJS | NodeJS | Tailwind CSS | TypeScript
 
 
-- 🛢 &nbsp; MySQL | MongoDB
+
+
+- 🛢 &nbsp; MySQL | MongoDB | Postgresql
 
 - 🔧 &nbsp; Git | Spark AR 
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase 
+- 🔧 &nbsp; AWS | Docker🐳 | Opengl
 
 <hr>
 
@@ -88,9 +88,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://benedictkpaduwa.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/benedictkpaduwa.vercel.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://benedictk.dev/"><img alt="Website" src="https://img.shields.io/badge/benedictk.dev-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/benedict-kpaduwa-c-7a6010164/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BenedictKpaduwa-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/benedictkpaduwa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BenedictKpaduwa-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/benedict__k/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-benedict__k-black?style=flat-square&logo=instagram"></a>
 
